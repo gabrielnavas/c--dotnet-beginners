@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("interfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd2bd9b4a88101b9d0789241b444d0694f27f2c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+223215f51de6b5fe96aea7a0c4503deb26c2a46d")]
 [assembly: System.Reflection.AssemblyProductAttribute("interfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("interfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

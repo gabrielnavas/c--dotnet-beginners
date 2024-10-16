@@ -42,6 +42,6 @@ class FileLogger : ILogger
 
   public void Log()
   {
-    File.AppendAllText("log.txt", $"{message}\n");
+    File.AppendAllText("log.txt", $"{message}{Environment.NewLine}");
   }
 }
