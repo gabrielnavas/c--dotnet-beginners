@@ -12,3 +12,4 @@
 /home/navas/Projects/c#-dotnet-beginners/basic/obj/Debug/net8.0/basic.pdb
 /home/navas/Projects/c#-dotnet-beginners/basic/obj/Debug/net8.0/basic.genruntimeconfig.cache
 /home/navas/Projects/c#-dotnet-beginners/basic/obj/Debug/net8.0/ref/basic.dll
+/home/navas/Projects/c#-dotnet-beginners/basic/obj/Debug/net8.0/basic.sourcelink.json
