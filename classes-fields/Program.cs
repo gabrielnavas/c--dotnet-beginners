@@ -1,40 +1,46 @@
 ﻿BankAccount account = new BankAccount("Jonny", 50.50m);
-account.Deposit(100);
+account.Deposit(100.50m);
 
-System.Console.WriteLine(account.Balance);
+Console.WriteLine(account.Balance);
 
 class BankAccount
 {
   private string name;
   private decimal balance;
 
+  public string Name
+  {
+    get { return name; }
+    set
+    {
+      if (string.IsNullOrWhiteSpace(value))
+      {
+        throw new ArgumentException("Nome inválido.", nameof(name));
+      }
+    }
+  }
+
   public decimal Balance
   {
     get { return balance; }
+    private set
+    {
+      if (value < 0)
+      {
+        throw new ArgumentException("Balanço inválido.", nameof(balance));
+      }
+      balance = value;
+    }
   }
 
   public BankAccount(string name, decimal balance)
   {
-
-    if (string.IsNullOrWhiteSpace(name))
-    {
-      throw new ArgumentException("Nome inválido.", nameof(name));
-    }
-    if (balance < 0)
-    {
-      throw new ArgumentException("Balanço inválido.", nameof(balance));
-    }
-    this.balance = balance;
-    this.name = name;
+    Name = name;
+    Balance = balance;
   }
 
   public void Deposit(decimal amount)
   {
-    if (balance < 0)
-    {
-      throw new ArgumentException("Balanço inválido.", nameof(balance));
-    }
-
-    balance += amount;
+    Balance += amount;
   }
 }
