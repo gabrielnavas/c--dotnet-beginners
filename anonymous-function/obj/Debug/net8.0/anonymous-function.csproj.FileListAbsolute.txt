@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/bin/Debug/net8.0/anonymous-function
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/bin/Debug/net8.0/anonymous-function.deps.json
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/bin/Debug/net8.0/anonymous-function.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/bin/Debug/net8.0/anonymous-function.dll
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/bin/Debug/net8.0/anonymous-function.pdb
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/obj/Debug/net8.0/anonymous-function.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/obj/Debug/net8.0/anonymous-function.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/obj/Debug/net8.0/anonymous-function.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/obj/Debug/net8.0/anonymous-function.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/obj/Debug/net8.0/anonymous-function.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/obj/Debug/net8.0/anonymous-function.dll
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/obj/Debug/net8.0/refint/anonymous-function.dll
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/obj/Debug/net8.0/anonymous-function.pdb
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/obj/Debug/net8.0/anonymous-function.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/anonymous-function/obj/Debug/net8.0/ref/anonymous-function.dll

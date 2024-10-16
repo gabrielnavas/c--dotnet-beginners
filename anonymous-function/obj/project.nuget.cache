@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JAMJc000JMdn3q4MpaUBaKWZJYocMO9NmY68FcH0Df7kWsfoXUETYWDmn3fsSXgh91HoOh4YDc0lgUxWogqr6A==",
+  "success": true,
+  "projectFilePath": "/home/navas/Projects/c#-dotnet-beginners/anonymous-function/anonymous-function.csproj",
+  "expectedPackageFiles": [
+    "/home/navas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
