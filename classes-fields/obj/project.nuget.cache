@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gxSSgpDnpzIuapdEF9zkZXheExdhp4Drr7c4QPk0xOncxRoLdmdfgkCtJlKStexLq7RwtFUMazG1aQgXmp3ybQ==",
+  "success": true,
+  "projectFilePath": "/home/navas/Projects/c#-dotnet-beginners/classes-fields/classes-fields.csproj",
+  "expectedPackageFiles": [
+    "/home/navas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

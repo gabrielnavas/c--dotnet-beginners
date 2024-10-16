@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/bin/Debug/net8.0/classes-fields
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/bin/Debug/net8.0/classes-fields.deps.json
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/bin/Debug/net8.0/classes-fields.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/bin/Debug/net8.0/classes-fields.dll
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/bin/Debug/net8.0/classes-fields.pdb
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/obj/Debug/net8.0/classes-fields.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/obj/Debug/net8.0/classes-fields.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/obj/Debug/net8.0/classes-fields.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/obj/Debug/net8.0/classes-fields.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/obj/Debug/net8.0/classes-fields.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/obj/Debug/net8.0/classes-fields.dll
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/obj/Debug/net8.0/refint/classes-fields.dll
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/obj/Debug/net8.0/classes-fields.pdb
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/obj/Debug/net8.0/classes-fields.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/classes-fields/obj/Debug/net8.0/ref/classes-fields.dll
