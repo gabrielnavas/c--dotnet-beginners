@@ -24,9 +24,16 @@ string ofLegalAge = age >= 18
 Console.WriteLine(ofLegalAge);
 
 // methods
-Console.BackgroundColor = ConsoleColor.DarkBlue;
-Console.ForegroundColor = ConsoleColor.Green;
-Console.WriteLine("=== OPA ===");
-
 var nameUpperCase = "John".ToUpper();
 Console.WriteLine(nameUpperCase);
+
+
+// input name
+Console.Write("Digite seu nome: ");
+var inputedName = Console.ReadLine();
+Console.WriteLine($"Olá, {inputedName}!");
+
+// calculate age
+Console.Write("Digite sua idade: ");
+var inputedAge = Console.ReadLine();
+Console.WriteLine($"Olá, {inputedName}, you are {inputedAge} years old!");
