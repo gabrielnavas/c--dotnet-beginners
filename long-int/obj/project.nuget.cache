@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8tngc3xv7plBz/x/j4qCawf2lHMnFqjubtYL+5sKF+9IrCWfAVXIFpAhxucArv9llXueiEIy/CT/tFkh3x8O1Q==",
+  "success": true,
+  "projectFilePath": "/home/navas/Projects/c#-dotnet-beginners/long-int/long-int.csproj",
+  "expectedPackageFiles": [
+    "/home/navas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/long-int/bin/Debug/net8.0/long-int
+/home/navas/Projects/c#-dotnet-beginners/long-int/bin/Debug/net8.0/long-int.deps.json
+/home/navas/Projects/c#-dotnet-beginners/long-int/bin/Debug/net8.0/long-int.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/long-int/bin/Debug/net8.0/long-int.dll
+/home/navas/Projects/c#-dotnet-beginners/long-int/bin/Debug/net8.0/long-int.pdb
+/home/navas/Projects/c#-dotnet-beginners/long-int/obj/Debug/net8.0/long-int.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/long-int/obj/Debug/net8.0/long-int.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/long-int/obj/Debug/net8.0/long-int.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/long-int/obj/Debug/net8.0/long-int.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/long-int/obj/Debug/net8.0/long-int.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/long-int/obj/Debug/net8.0/long-int.dll
+/home/navas/Projects/c#-dotnet-beginners/long-int/obj/Debug/net8.0/refint/long-int.dll
+/home/navas/Projects/c#-dotnet-beginners/long-int/obj/Debug/net8.0/long-int.pdb
+/home/navas/Projects/c#-dotnet-beginners/long-int/obj/Debug/net8.0/long-int.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/long-int/obj/Debug/net8.0/ref/long-int.dll
