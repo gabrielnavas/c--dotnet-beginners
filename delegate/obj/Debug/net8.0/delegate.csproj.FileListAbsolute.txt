@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/delegate/bin/Debug/net8.0/delegate
+/home/navas/Projects/c#-dotnet-beginners/delegate/bin/Debug/net8.0/delegate.deps.json
+/home/navas/Projects/c#-dotnet-beginners/delegate/bin/Debug/net8.0/delegate.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/delegate/bin/Debug/net8.0/delegate.dll
+/home/navas/Projects/c#-dotnet-beginners/delegate/bin/Debug/net8.0/delegate.pdb
+/home/navas/Projects/c#-dotnet-beginners/delegate/obj/Debug/net8.0/delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/delegate/obj/Debug/net8.0/delegate.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/delegate/obj/Debug/net8.0/delegate.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/delegate/obj/Debug/net8.0/delegate.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/delegate/obj/Debug/net8.0/delegate.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/delegate/obj/Debug/net8.0/delegate.dll
+/home/navas/Projects/c#-dotnet-beginners/delegate/obj/Debug/net8.0/refint/delegate.dll
+/home/navas/Projects/c#-dotnet-beginners/delegate/obj/Debug/net8.0/delegate.pdb
+/home/navas/Projects/c#-dotnet-beginners/delegate/obj/Debug/net8.0/delegate.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/delegate/obj/Debug/net8.0/ref/delegate.dll
