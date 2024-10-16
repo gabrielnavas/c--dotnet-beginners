@@ -4,7 +4,7 @@ try
   string s = null;
   Console.WriteLine(s.Length);
 }
-catch (NullReferenceException)
+catch (NullReferenceException ex)
 {
-  Console.WriteLine("Erro de referência nula.");
+  Console.WriteLine($"Erro de referência nula. {ex.Message}");
 }
