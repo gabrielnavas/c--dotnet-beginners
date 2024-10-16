@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/interfaces/bin/Debug/net8.0/interfaces
+/home/navas/Projects/c#-dotnet-beginners/interfaces/bin/Debug/net8.0/interfaces.deps.json
+/home/navas/Projects/c#-dotnet-beginners/interfaces/bin/Debug/net8.0/interfaces.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/interfaces/bin/Debug/net8.0/interfaces.dll
+/home/navas/Projects/c#-dotnet-beginners/interfaces/bin/Debug/net8.0/interfaces.pdb
+/home/navas/Projects/c#-dotnet-beginners/interfaces/obj/Debug/net8.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/interfaces/obj/Debug/net8.0/interfaces.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/interfaces/obj/Debug/net8.0/interfaces.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/interfaces/obj/Debug/net8.0/interfaces.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/interfaces/obj/Debug/net8.0/interfaces.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/interfaces/obj/Debug/net8.0/interfaces.dll
+/home/navas/Projects/c#-dotnet-beginners/interfaces/obj/Debug/net8.0/refint/interfaces.dll
+/home/navas/Projects/c#-dotnet-beginners/interfaces/obj/Debug/net8.0/interfaces.pdb
+/home/navas/Projects/c#-dotnet-beginners/interfaces/obj/Debug/net8.0/interfaces.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/interfaces/obj/Debug/net8.0/ref/interfaces.dll
