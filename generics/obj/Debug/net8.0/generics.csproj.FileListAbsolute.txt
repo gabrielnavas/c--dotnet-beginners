@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/generics/bin/Debug/net8.0/generics
+/home/navas/Projects/c#-dotnet-beginners/generics/bin/Debug/net8.0/generics.deps.json
+/home/navas/Projects/c#-dotnet-beginners/generics/bin/Debug/net8.0/generics.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/generics/bin/Debug/net8.0/generics.dll
+/home/navas/Projects/c#-dotnet-beginners/generics/bin/Debug/net8.0/generics.pdb
+/home/navas/Projects/c#-dotnet-beginners/generics/obj/Debug/net8.0/generics.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/generics/obj/Debug/net8.0/generics.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/generics/obj/Debug/net8.0/generics.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/generics/obj/Debug/net8.0/generics.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/generics/obj/Debug/net8.0/generics.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/generics/obj/Debug/net8.0/generics.dll
+/home/navas/Projects/c#-dotnet-beginners/generics/obj/Debug/net8.0/refint/generics.dll
+/home/navas/Projects/c#-dotnet-beginners/generics/obj/Debug/net8.0/generics.pdb
+/home/navas/Projects/c#-dotnet-beginners/generics/obj/Debug/net8.0/generics.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/generics/obj/Debug/net8.0/ref/generics.dll
