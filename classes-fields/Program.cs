@@ -1,12 +1,17 @@
 ﻿BankAccount account = new BankAccount("Jonny", 50.50m);
 account.Deposit(100);
 
-System.Console.WriteLine(account.GetBalance());
+System.Console.WriteLine(account.Balance);
 
 class BankAccount
 {
   private string name;
   private decimal balance;
+
+  public decimal Balance
+  {
+    get { return balance; }
+  }
 
   public BankAccount(string name, decimal balance)
   {
@@ -31,9 +36,5 @@ class BankAccount
     }
 
     balance += amount;
-  }
-
-  public decimal GetBalance() {
-    return balance;
   }
 }
