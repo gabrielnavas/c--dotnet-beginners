@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/bin/Debug/net8.0/values-nullables
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/bin/Debug/net8.0/values-nullables.deps.json
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/bin/Debug/net8.0/values-nullables.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/bin/Debug/net8.0/values-nullables.dll
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/bin/Debug/net8.0/values-nullables.pdb
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/obj/Debug/net8.0/values-nullables.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/obj/Debug/net8.0/values-nullables.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/obj/Debug/net8.0/values-nullables.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/obj/Debug/net8.0/values-nullables.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/obj/Debug/net8.0/values-nullables.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/obj/Debug/net8.0/values-nullables.dll
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/obj/Debug/net8.0/refint/values-nullables.dll
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/obj/Debug/net8.0/values-nullables.pdb
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/obj/Debug/net8.0/values-nullables.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/values-nullables/obj/Debug/net8.0/ref/values-nullables.dll
