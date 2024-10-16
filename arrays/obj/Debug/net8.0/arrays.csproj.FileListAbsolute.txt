@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/arrays/bin/Debug/net8.0/arrays
+/home/navas/Projects/c#-dotnet-beginners/arrays/bin/Debug/net8.0/arrays.deps.json
+/home/navas/Projects/c#-dotnet-beginners/arrays/bin/Debug/net8.0/arrays.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/arrays/bin/Debug/net8.0/arrays.dll
+/home/navas/Projects/c#-dotnet-beginners/arrays/bin/Debug/net8.0/arrays.pdb
+/home/navas/Projects/c#-dotnet-beginners/arrays/obj/Debug/net8.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/arrays/obj/Debug/net8.0/arrays.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/arrays/obj/Debug/net8.0/arrays.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/arrays/obj/Debug/net8.0/arrays.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/arrays/obj/Debug/net8.0/arrays.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/arrays/obj/Debug/net8.0/arrays.dll
+/home/navas/Projects/c#-dotnet-beginners/arrays/obj/Debug/net8.0/refint/arrays.dll
+/home/navas/Projects/c#-dotnet-beginners/arrays/obj/Debug/net8.0/arrays.pdb
+/home/navas/Projects/c#-dotnet-beginners/arrays/obj/Debug/net8.0/arrays.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/arrays/obj/Debug/net8.0/ref/arrays.dll

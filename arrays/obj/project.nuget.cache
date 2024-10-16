@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wAiO2WgEU5jlmAeBRmnUnbOaQmjWkDaxlvVpsegY1Z7hGw7VJLYFzwiWWihkAbNwtTLtzTmgcVXj8lPJbnWnTg==",
+  "success": true,
+  "projectFilePath": "/home/navas/Projects/c#-dotnet-beginners/arrays/arrays.csproj",
+  "expectedPackageFiles": [
+    "/home/navas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
