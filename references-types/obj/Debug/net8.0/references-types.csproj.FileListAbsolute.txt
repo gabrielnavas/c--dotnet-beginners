@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/references-types/bin/Debug/net8.0/references-types
+/home/navas/Projects/c#-dotnet-beginners/references-types/bin/Debug/net8.0/references-types.deps.json
+/home/navas/Projects/c#-dotnet-beginners/references-types/bin/Debug/net8.0/references-types.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/references-types/bin/Debug/net8.0/references-types.dll
+/home/navas/Projects/c#-dotnet-beginners/references-types/bin/Debug/net8.0/references-types.pdb
+/home/navas/Projects/c#-dotnet-beginners/references-types/obj/Debug/net8.0/references-types.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/references-types/obj/Debug/net8.0/references-types.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/references-types/obj/Debug/net8.0/references-types.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/references-types/obj/Debug/net8.0/references-types.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/references-types/obj/Debug/net8.0/references-types.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/references-types/obj/Debug/net8.0/references-types.dll
+/home/navas/Projects/c#-dotnet-beginners/references-types/obj/Debug/net8.0/refint/references-types.dll
+/home/navas/Projects/c#-dotnet-beginners/references-types/obj/Debug/net8.0/references-types.pdb
+/home/navas/Projects/c#-dotnet-beginners/references-types/obj/Debug/net8.0/references-types.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/references-types/obj/Debug/net8.0/ref/references-types.dll
