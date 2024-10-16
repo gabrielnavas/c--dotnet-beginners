@@ -36,5 +36,9 @@ Console.WriteLine($"Olá, {inputedName}!");
 // calculate age
 Console.Write("Digite o ano do seu nascimento: ");
 int inputedAge = int.Parse(Console.ReadLine());
-Console.WriteLine($"Olá, {inputedName}, you were born in {inputedAge}.");
+int ageCalculate = 2024 - inputedAge;
+string ofLegal = ageCalculate >= 18
+ ? "you are of legal age"
+  : "you are not of legal age";
+Console.WriteLine($"Olá, {inputedName}, you are {ageCalculate} years old and {ofLegal}");
 
