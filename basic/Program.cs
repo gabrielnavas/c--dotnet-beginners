@@ -13,7 +13,6 @@ string name = "John";
 
 
 // operations
-
 if (isOpen)
 {
   Console.WriteLine("Is Open!");
@@ -23,3 +22,11 @@ string ofLegalAge = age >= 18
   ? "I am of legal age"
   : "I'm not of legal age";
 Console.WriteLine(ofLegalAge);
+
+// methods
+Console.BackgroundColor = ConsoleColor.DarkBlue;
+Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("=== OPA ===");
+
+var nameUpperCase = "John".ToUpper();
+Console.WriteLine(nameUpperCase);
