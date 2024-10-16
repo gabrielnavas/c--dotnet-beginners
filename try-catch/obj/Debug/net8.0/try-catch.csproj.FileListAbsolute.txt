@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/try-catch/bin/Debug/net8.0/try-catch
+/home/navas/Projects/c#-dotnet-beginners/try-catch/bin/Debug/net8.0/try-catch.deps.json
+/home/navas/Projects/c#-dotnet-beginners/try-catch/bin/Debug/net8.0/try-catch.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/try-catch/bin/Debug/net8.0/try-catch.dll
+/home/navas/Projects/c#-dotnet-beginners/try-catch/bin/Debug/net8.0/try-catch.pdb
+/home/navas/Projects/c#-dotnet-beginners/try-catch/obj/Debug/net8.0/try-catch.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/try-catch/obj/Debug/net8.0/try-catch.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/try-catch/obj/Debug/net8.0/try-catch.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/try-catch/obj/Debug/net8.0/try-catch.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/try-catch/obj/Debug/net8.0/try-catch.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/try-catch/obj/Debug/net8.0/try-catch.dll
+/home/navas/Projects/c#-dotnet-beginners/try-catch/obj/Debug/net8.0/refint/try-catch.dll
+/home/navas/Projects/c#-dotnet-beginners/try-catch/obj/Debug/net8.0/try-catch.pdb
+/home/navas/Projects/c#-dotnet-beginners/try-catch/obj/Debug/net8.0/try-catch.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/try-catch/obj/Debug/net8.0/ref/try-catch.dll
