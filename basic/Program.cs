@@ -24,16 +24,17 @@ string ofLegalAge = age >= 18
 Console.WriteLine(ofLegalAge);
 
 // methods
-var nameUpperCase = "John".ToUpper();
+string nameUpperCase = "John".ToUpper();
 Console.WriteLine(nameUpperCase);
 
 
 // input name
 Console.Write("Digite seu nome: ");
-var inputedName = Console.ReadLine();
+string inputedName = Console.ReadLine();
 Console.WriteLine($"Olá, {inputedName}!");
 
 // calculate age
-Console.Write("Digite sua idade: ");
-var inputedAge = Console.ReadLine();
-Console.WriteLine($"Olá, {inputedName}, you are {inputedAge} years old!");
+Console.Write("Digite o ano do seu nascimento: ");
+int inputedAge = int.Parse(Console.ReadLine());
+Console.WriteLine($"Olá, {inputedName}, you were born in {inputedAge}.");
+
