@@ -20,6 +20,9 @@ if (task.IsCompleted)
 
 await Operacao();
 
+var valor = await MeuValor();
+Console.WriteLine(valor); // 42
+
 async Task Operacao()
 {
   Console.WriteLine("Começando de forma async");
@@ -28,4 +31,10 @@ async Task Operacao()
     Thread.Sleep(5000);
   });
   Console.WriteLine("Task executada de forma async");
+}
+
+
+async Task<int> MeuValor()
+{
+  return 42;
 }
