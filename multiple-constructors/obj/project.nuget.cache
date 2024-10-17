@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w8jLptTj+AYzrayAlDttSjuW5xp75/BkLKUCe4ZLpmc5VP6CtU5kSoO+fBf0o4x7kog8AGQhHSAfN577hA+sdw==",
+  "success": true,
+  "projectFilePath": "/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/multiple-constructors.csproj",
+  "expectedPackageFiles": [
+    "/home/navas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

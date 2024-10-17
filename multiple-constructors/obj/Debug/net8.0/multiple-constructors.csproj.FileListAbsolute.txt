@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/bin/Debug/net8.0/multiple-constructors
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/bin/Debug/net8.0/multiple-constructors.deps.json
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/bin/Debug/net8.0/multiple-constructors.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/bin/Debug/net8.0/multiple-constructors.dll
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/bin/Debug/net8.0/multiple-constructors.pdb
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/obj/Debug/net8.0/multiple-constructors.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/obj/Debug/net8.0/multiple-constructors.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/obj/Debug/net8.0/multiple-constructors.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/obj/Debug/net8.0/multiple-constructors.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/obj/Debug/net8.0/multiple-constructors.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/obj/Debug/net8.0/multiple-constructors.dll
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/obj/Debug/net8.0/refint/multiple-constructors.dll
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/obj/Debug/net8.0/multiple-constructors.pdb
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/obj/Debug/net8.0/multiple-constructors.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/multiple-constructors/obj/Debug/net8.0/ref/multiple-constructors.dll
