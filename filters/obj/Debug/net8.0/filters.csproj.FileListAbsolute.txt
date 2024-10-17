@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/filters/bin/Debug/net8.0/filters
+/home/navas/Projects/c#-dotnet-beginners/filters/bin/Debug/net8.0/filters.deps.json
+/home/navas/Projects/c#-dotnet-beginners/filters/bin/Debug/net8.0/filters.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/filters/bin/Debug/net8.0/filters.dll
+/home/navas/Projects/c#-dotnet-beginners/filters/bin/Debug/net8.0/filters.pdb
+/home/navas/Projects/c#-dotnet-beginners/filters/obj/Debug/net8.0/filters.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/filters/obj/Debug/net8.0/filters.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/filters/obj/Debug/net8.0/filters.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/filters/obj/Debug/net8.0/filters.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/filters/obj/Debug/net8.0/filters.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/filters/obj/Debug/net8.0/filters.dll
+/home/navas/Projects/c#-dotnet-beginners/filters/obj/Debug/net8.0/refint/filters.dll
+/home/navas/Projects/c#-dotnet-beginners/filters/obj/Debug/net8.0/filters.pdb
+/home/navas/Projects/c#-dotnet-beginners/filters/obj/Debug/net8.0/filters.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/filters/obj/Debug/net8.0/ref/filters.dll
