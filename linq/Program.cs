@@ -3,8 +3,8 @@
 // Query Expression Syntax 
 // (execução adiada, maior performance, pois consigo trazer apenas os dados que eu quero, tudo junto)
 var queryExpressionResult = from number in ages
-            where number < 10
-            select number;
+                            where number < 10
+                            select number;
 Console.WriteLine(string.Join(", ", queryExpressionResult)); // 1, 4, 9 
 
 // Lambda Expression Syntax (execução imediata)
