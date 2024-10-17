@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/threads/bin/Debug/net8.0/threads
+/home/navas/Projects/c#-dotnet-beginners/threads/bin/Debug/net8.0/threads.deps.json
+/home/navas/Projects/c#-dotnet-beginners/threads/bin/Debug/net8.0/threads.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/threads/bin/Debug/net8.0/threads.dll
+/home/navas/Projects/c#-dotnet-beginners/threads/bin/Debug/net8.0/threads.pdb
+/home/navas/Projects/c#-dotnet-beginners/threads/obj/Debug/net8.0/threads.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/threads/obj/Debug/net8.0/threads.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/threads/obj/Debug/net8.0/threads.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/threads/obj/Debug/net8.0/threads.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/threads/obj/Debug/net8.0/threads.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/threads/obj/Debug/net8.0/threads.dll
+/home/navas/Projects/c#-dotnet-beginners/threads/obj/Debug/net8.0/refint/threads.dll
+/home/navas/Projects/c#-dotnet-beginners/threads/obj/Debug/net8.0/threads.pdb
+/home/navas/Projects/c#-dotnet-beginners/threads/obj/Debug/net8.0/threads.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/threads/obj/Debug/net8.0/ref/threads.dll
