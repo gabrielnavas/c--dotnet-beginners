@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/attributes/bin/Debug/net8.0/attributes
+/home/navas/Projects/c#-dotnet-beginners/attributes/bin/Debug/net8.0/attributes.deps.json
+/home/navas/Projects/c#-dotnet-beginners/attributes/bin/Debug/net8.0/attributes.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/attributes/bin/Debug/net8.0/attributes.dll
+/home/navas/Projects/c#-dotnet-beginners/attributes/bin/Debug/net8.0/attributes.pdb
+/home/navas/Projects/c#-dotnet-beginners/attributes/obj/Debug/net8.0/attributes.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/attributes/obj/Debug/net8.0/attributes.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/attributes/obj/Debug/net8.0/attributes.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/attributes/obj/Debug/net8.0/attributes.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/attributes/obj/Debug/net8.0/attributes.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/attributes/obj/Debug/net8.0/attributes.dll
+/home/navas/Projects/c#-dotnet-beginners/attributes/obj/Debug/net8.0/refint/attributes.dll
+/home/navas/Projects/c#-dotnet-beginners/attributes/obj/Debug/net8.0/attributes.pdb
+/home/navas/Projects/c#-dotnet-beginners/attributes/obj/Debug/net8.0/attributes.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/attributes/obj/Debug/net8.0/ref/attributes.dll

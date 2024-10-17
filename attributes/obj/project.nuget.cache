@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wq+JNfZkfYk0kPq/vGmT6hRxMtONmi9rIjyktY8F64I0TEI/wtd5fC1ASHO4bI2zxnn8mKGkX2OE8micjM0zhQ==",
+  "success": true,
+  "projectFilePath": "/home/navas/Projects/c#-dotnet-beginners/attributes/attributes.csproj",
+  "expectedPackageFiles": [
+    "/home/navas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
