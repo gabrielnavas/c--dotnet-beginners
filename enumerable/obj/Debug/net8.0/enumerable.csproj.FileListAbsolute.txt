@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/enumerable/bin/Debug/net8.0/enumerable
+/home/navas/Projects/c#-dotnet-beginners/enumerable/bin/Debug/net8.0/enumerable.deps.json
+/home/navas/Projects/c#-dotnet-beginners/enumerable/bin/Debug/net8.0/enumerable.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/enumerable/bin/Debug/net8.0/enumerable.dll
+/home/navas/Projects/c#-dotnet-beginners/enumerable/bin/Debug/net8.0/enumerable.pdb
+/home/navas/Projects/c#-dotnet-beginners/enumerable/obj/Debug/net8.0/enumerable.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/enumerable/obj/Debug/net8.0/enumerable.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/enumerable/obj/Debug/net8.0/enumerable.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/enumerable/obj/Debug/net8.0/enumerable.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/enumerable/obj/Debug/net8.0/enumerable.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/enumerable/obj/Debug/net8.0/enumerable.dll
+/home/navas/Projects/c#-dotnet-beginners/enumerable/obj/Debug/net8.0/refint/enumerable.dll
+/home/navas/Projects/c#-dotnet-beginners/enumerable/obj/Debug/net8.0/enumerable.pdb
+/home/navas/Projects/c#-dotnet-beginners/enumerable/obj/Debug/net8.0/enumerable.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/enumerable/obj/Debug/net8.0/ref/enumerable.dll

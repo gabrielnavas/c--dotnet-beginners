@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sEWnX9qlOSRdo+/C4Q9D3yQXi8q6MtwuAVq0UwMdDcSAy/Y2oag63v7kYSX4JxNp1qPtSB2CpR5vgFZak4c3jA==",
+  "success": true,
+  "projectFilePath": "/home/navas/Projects/c#-dotnet-beginners/enumerable/enumerable.csproj",
+  "expectedPackageFiles": [
+    "/home/navas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
