@@ -49,6 +49,16 @@ foreach (var item in branchCustomers)
   Console.WriteLine(item.Name);
 }
 
+//  LINQ com expressões lambda
+var branchCustomersAnonymous = accounts.Select(account => new {
+  account.Name,
+  account.Balance
+});
+foreach (var item in branchCustomersAnonymous)
+{
+  Console.WriteLine(item.Name);
+}
+
 class BranchCustomer
 {
   public string Name { get; set; }
