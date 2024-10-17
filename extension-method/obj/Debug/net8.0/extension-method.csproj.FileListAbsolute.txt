@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/extension-method/bin/Debug/net8.0/extension-method
+/home/navas/Projects/c#-dotnet-beginners/extension-method/bin/Debug/net8.0/extension-method.deps.json
+/home/navas/Projects/c#-dotnet-beginners/extension-method/bin/Debug/net8.0/extension-method.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/extension-method/bin/Debug/net8.0/extension-method.dll
+/home/navas/Projects/c#-dotnet-beginners/extension-method/bin/Debug/net8.0/extension-method.pdb
+/home/navas/Projects/c#-dotnet-beginners/extension-method/obj/Debug/net8.0/extension-method.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/extension-method/obj/Debug/net8.0/extension-method.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/extension-method/obj/Debug/net8.0/extension-method.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/extension-method/obj/Debug/net8.0/extension-method.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/extension-method/obj/Debug/net8.0/extension-method.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/extension-method/obj/Debug/net8.0/extension-method.dll
+/home/navas/Projects/c#-dotnet-beginners/extension-method/obj/Debug/net8.0/refint/extension-method.dll
+/home/navas/Projects/c#-dotnet-beginners/extension-method/obj/Debug/net8.0/extension-method.pdb
+/home/navas/Projects/c#-dotnet-beginners/extension-method/obj/Debug/net8.0/extension-method.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/extension-method/obj/Debug/net8.0/ref/extension-method.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cd1UP127T/EEJEkOgyhDFSzyq93bDe++wZn2OiLkFIDKyHDCatUAv3IogtQSkC+KAy0BeQQcdUo+/xnaLJISFg==",
+  "success": true,
+  "projectFilePath": "/home/navas/Projects/c#-dotnet-beginners/extension-method/extension-method.csproj",
+  "expectedPackageFiles": [
+    "/home/navas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
