@@ -35,6 +35,9 @@ foreach (var branch in groupByBranch)
   }
 }
 
+var names = accounts.Select(account => account.Name);
+Console.WriteLine(string.Join(",", names)); // João,Maria,Lucas,Gabriel,Miguel
+
 class BankAccount
 {
   public string Name { get; set; }
