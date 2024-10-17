@@ -1,0 +1,15 @@
+/home/navas/Projects/c#-dotnet-beginners/linq/bin/Debug/net8.0/linq
+/home/navas/Projects/c#-dotnet-beginners/linq/bin/Debug/net8.0/linq.deps.json
+/home/navas/Projects/c#-dotnet-beginners/linq/bin/Debug/net8.0/linq.runtimeconfig.json
+/home/navas/Projects/c#-dotnet-beginners/linq/bin/Debug/net8.0/linq.dll
+/home/navas/Projects/c#-dotnet-beginners/linq/bin/Debug/net8.0/linq.pdb
+/home/navas/Projects/c#-dotnet-beginners/linq/obj/Debug/net8.0/linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/navas/Projects/c#-dotnet-beginners/linq/obj/Debug/net8.0/linq.AssemblyInfoInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/linq/obj/Debug/net8.0/linq.AssemblyInfo.cs
+/home/navas/Projects/c#-dotnet-beginners/linq/obj/Debug/net8.0/linq.csproj.CoreCompileInputs.cache
+/home/navas/Projects/c#-dotnet-beginners/linq/obj/Debug/net8.0/linq.sourcelink.json
+/home/navas/Projects/c#-dotnet-beginners/linq/obj/Debug/net8.0/linq.dll
+/home/navas/Projects/c#-dotnet-beginners/linq/obj/Debug/net8.0/refint/linq.dll
+/home/navas/Projects/c#-dotnet-beginners/linq/obj/Debug/net8.0/linq.pdb
+/home/navas/Projects/c#-dotnet-beginners/linq/obj/Debug/net8.0/linq.genruntimeconfig.cache
+/home/navas/Projects/c#-dotnet-beginners/linq/obj/Debug/net8.0/ref/linq.dll
